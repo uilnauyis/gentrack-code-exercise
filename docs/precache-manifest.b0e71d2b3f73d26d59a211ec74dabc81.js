@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gentrack-code-exercise/static/js/2.9aad086e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d82e3940e821095f40b3",
-    "url": "/gentrack-code-exercise/static/js/main.f79759fb.chunk.js"
+    "revision": "f7fd32d5bb655be0dc9f",
+    "url": "/gentrack-code-exercise/static/js/main.42d0d23d.chunk.js"
   },
   {
     "revision": "ef7d531b642baf72ed95",
     "url": "/gentrack-code-exercise/static/js/runtime-main.a48214fa.js"
   },
   {
-    "revision": "02e94f3568e16864d39cee8fe1528212",
+    "revision": "ab06c9085fc0d2c08c08330ed01b24c3",
     "url": "/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "d82e3940e821095f40b3",
+    "revision": "f7fd32d5bb655be0dc9f",
     "url": "/static/css/main.711391f2.chunk.css"
   }
 ]);
