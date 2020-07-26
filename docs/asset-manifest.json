@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.711391f2.chunk.css",
-    "main.js": "/static/js/main.42d0d23d.chunk.js",
-    "main.js.map": "/static/js/main.42d0d23d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a48214fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a48214fa.js.map",
+    "main.js": "/gentrack-code-exercise/static/js/main.f79759fb.chunk.js",
+    "main.js.map": "/gentrack-code-exercise/static/js/main.f79759fb.chunk.js.map",
+    "runtime-main.js": "/gentrack-code-exercise/static/js/runtime-main.a48214fa.js",
+    "runtime-main.js.map": "/gentrack-code-exercise/static/js/runtime-main.a48214fa.js.map",
     "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.9aad086e.chunk.js": "/static/js/2.9aad086e.chunk.js",
-    "static/js/2.9aad086e.chunk.js.map": "/static/js/2.9aad086e.chunk.js.map",
+    "gentrack-code-exercise/static/js/2.9aad086e.chunk.js": "/gentrack-code-exercise/static/js/2.9aad086e.chunk.js",
+    "gentrack-code-exercise/static/js/2.9aad086e.chunk.js.map": "/gentrack-code-exercise/static/js/2.9aad086e.chunk.js.map",
+    "gentrack-code-exercise/static/js/2.9aad086e.chunk.js.LICENSE.txt": "/gentrack-code-exercise/static/js/2.9aad086e.chunk.js.LICENSE.txt",
     "index.html": "/index.html",
-    "precache-manifest.f0ce31c1b2c1fc76de18d3952542e305.js": "/precache-manifest.f0ce31c1b2c1fc76de18d3952542e305.js",
+    "precache-manifest.88863f57b4053a9365f296a0c832aac9.js": "/precache-manifest.88863f57b4053a9365f296a0c832aac9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.711391f2.chunk.css.map": "/static/css/main.711391f2.chunk.css.map",
-    "static/js/2.9aad086e.chunk.js.LICENSE.txt": "/static/js/2.9aad086e.chunk.js.LICENSE.txt"
+    "static/css/main.711391f2.chunk.css.map": "/static/css/main.711391f2.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a48214fa.js",
+    "gentrack-code-exercise/static/js/runtime-main.a48214fa.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.9aad086e.chunk.js",
+    "gentrack-code-exercise/static/js/2.9aad086e.chunk.js",
     "static/css/main.711391f2.chunk.css",
-    "static/js/main.42d0d23d.chunk.js"
+    "gentrack-code-exercise/static/js/main.f79759fb.chunk.js"
   ]
 }
