@@ -1,10 +1,10 @@
 # Gentrack Code Exercise
 
-This is a small program that extracts neede data in XML files and generates CSV 
+This is a small program that extracts needed data in XML files and generates CSV 
 files to store the data. 
 
 This program provides an user-friendly GUI built with
-React.Js and hosted on Github page for easy access and use through mordern web
+React.Js and hosted on Github page for easy access through mordern web
 browsers.
 
 ## Available Scripts
