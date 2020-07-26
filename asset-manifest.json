@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gentrack-code-exercise/static/css/main.711391f2.chunk.css",
+    "main.js": "/gentrack-code-exercise/static/js/main.c9acb6db.js",
+    "main.js.map": "/gentrack-code-exercise/static/js/main.c9acb6db.js.map",
+    "runtime-main.js": "/gentrack-code-exercise/static/js/runtime-main.3efd24d0.js",
+    "runtime-main.js.map": "/gentrack-code-exercise/static/js/runtime-main.3efd24d0.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/gentrack-code-exercise/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.9aad086e.js": "/gentrack-code-exercise/static/js/2.9aad086e.js",
+    "static/js/2.9aad086e.js.map": "/gentrack-code-exercise/static/js/2.9aad086e.js.map",
+    "index.html": "/gentrack-code-exercise/index.html",
+    "precache-manifest.b971392feadcd7172a23851c8b28d5d6.js": "/gentrack-code-exercise/precache-manifest.b971392feadcd7172a23851c8b28d5d6.js",
+    "service-worker.js": "/gentrack-code-exercise/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/gentrack-code-exercise/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.711391f2.chunk.css.map": "/gentrack-code-exercise/static/css/main.711391f2.chunk.css.map",
+    "static/js/2.9aad086e.js.LICENSE.txt": "/gentrack-code-exercise/static/js/2.9aad086e.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3efd24d0.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.9aad086e.js",
+    "static/css/main.711391f2.chunk.css",
+    "static/js/main.c9acb6db.js"
+  ]
+}
